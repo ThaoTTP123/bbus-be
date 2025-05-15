@@ -1,0 +1,6 @@
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:43:15.000000', '2025-02-27 17:43:19.000000', 'bb4e2b2c-f550-4451-8261-a75f460784e2', null, 'SYSADMIN');
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:43:41.000000', '2025-02-27 17:43:42.000000', 'd438a743-7fd5-4f75-b681-9fe0a4b1a9a5', null, 'PARENT');
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:43:59.000000', '2025-02-27 17:44:00.000000', 'da7eed1d-fd34-45f1-89c0-10ff8a8917e3', null, 'TEACHER');
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:44:01.000000', '2025-02-27 17:44:01.000000', '20988d8c-c2fe-4ccf-844d-10fa1b9642d8', null, 'DRIVER');
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:44:02.000000', '2025-02-27 17:44:03.000000', '9eee581e-8876-4b42-8562-f844e9ffafe0', null, 'ADMIN');
+INSERT INTO public.tbl_role (created_at, updated_at, id, description, name) VALUES ('2025-02-27 17:44:04.000000', '2025-02-27 17:44:04.000000', 'd4fa5943-be1e-4127-a3a6-f2097cd05b53', null, 'ASSISTANT');

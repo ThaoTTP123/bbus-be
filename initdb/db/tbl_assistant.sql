@@ -1,0 +1,2 @@
+INSERT INTO public.tbl_assistant (created_at, updated_at, id, user_id) VALUES ('2025-03-04 23:52:01.817000', '2025-03-04 23:52:01.817000', '83bcd928-ed7e-422f-a57c-49a52f34223b', 'ffeb4cf2-e8bb-4355-91bd-2a0ae4610503');
+INSERT INTO public.tbl_assistant (created_at, updated_at, id, user_id) VALUES ('2025-03-20 22:59:22.000000', '2025-03-20 22:59:22.000000', '11f25ff7-ab4b-4328-9e61-548a38c987f3', '45ec5019-1591-4c00-addc-0f5f70ac0240');

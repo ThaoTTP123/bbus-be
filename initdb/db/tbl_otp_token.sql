@@ -1,0 +1,1 @@
+INSERT INTO public.tbl_otp_token (id, email, otp, expire_at, created_at, updated_at) VALUES ('2907b249-ccfd-4329-8de6-d1a6d7077460', 'tuanvmhe173334@fpt.edu.vn', '573595', '2025-04-17 02:59:56.941021', '2025-04-17 02:54:57.038000', '2025-04-17 02:54:57.038000');

@@ -1,0 +1,4 @@
+INSERT INTO public.tbl_teacher (created_at, updated_at, id, user_id) VALUES ('2025-03-04 23:46:17.827000', '2025-03-04 23:46:17.827000', '538f5dd5-c137-41a9-8988-210203460e9f', 'd1014531-bb48-4d6d-a02f-053b7c673762');
+INSERT INTO public.tbl_teacher (created_at, updated_at, id, user_id) VALUES ('2025-03-12 23:27:12.265000', '2025-03-12 23:27:12.265000', 'c88f03a1-73b3-41b2-b17e-ee090a0571d4', 'b4604247-ec04-43f5-bcda-b03db246dc37');
+INSERT INTO public.tbl_teacher (created_at, updated_at, id, user_id) VALUES ('2025-03-12 23:27:12.643000', '2025-03-12 23:27:12.643000', '8bf0c443-bb8c-4c8e-b1e8-48eba864e3fe', '8154afe0-e946-4d4f-974d-aa977b7b2268');
+INSERT INTO public.tbl_teacher (created_at, updated_at, id, user_id) VALUES ('2025-03-20 23:01:06.000000', '2025-03-20 23:01:04.000000', '2b769022-3cdf-40dd-a61b-11530dfd7e73', '78929509-8432-4850-9d88-ca103b4cad25');

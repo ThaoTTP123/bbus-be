@@ -1,0 +1,2 @@
+INSERT INTO public.tbl_camera (created_at, time_basic, time_heartbeat, bus_id, facesluice) VALUES ('2025-04-12 22:55:50.256000', null, null, 'e8b38afd-e17d-4869-825d-f101755f7d60', '1003001');
+INSERT INTO public.tbl_camera (created_at, time_basic, time_heartbeat, bus_id, facesluice) VALUES ('2025-04-11 03:15:09.673000', '2025-04-18 02:24:51.000000', '2025-04-18 02:24:51.000000', 'a86c203c-4774-430d-821d-9668832aaace', '1001001');

@@ -1,0 +1,2 @@
+INSERT INTO public.tbl_driver (created_at, updated_at, id, user_id) VALUES ('2025-03-04 23:49:36.186000', '2025-03-04 23:49:36.186000', 'fabb451b-5740-41ac-8353-e12532b7894c', 'c6c19635-967c-4b66-be00-2295a0256fd4');
+INSERT INTO public.tbl_driver (created_at, updated_at, id, user_id) VALUES ('2025-03-20 23:00:21.000000', '2025-03-20 23:00:19.000000', '6946cf4c-9e26-4305-9541-3e7680b104f9', '57760f91-7e12-478c-8232-953e60b9450f');

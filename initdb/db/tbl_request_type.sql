@@ -1,0 +1,3 @@
+INSERT INTO public.tbl_request_type (created_at, updated_at, id, request_type_name) VALUES ('2025-03-20 23:04:34.000000', '2025-03-20 23:04:35.000000', '7fba6d6c-137f-428c-958f-fe6160469be8', 'Đơn xin nghỉ học');
+INSERT INTO public.tbl_request_type (created_at, updated_at, id, request_type_name) VALUES ('2025-03-20 23:04:29.000000', '2025-03-20 23:04:28.000000', 'a9f42863-57b4-4b82-91fb-227f82ecaa20', 'Yêu cầu đổi điểm đón/trả cho học sinh');
+INSERT INTO public.tbl_request_type (created_at, updated_at, id, request_type_name) VALUES ('2025-04-13 02:27:18.000000', '2025-04-13 02:27:19.000000', '5c8da669-43e7-4e20-91a2-d53234ddd2f0', 'Đơn khác');
